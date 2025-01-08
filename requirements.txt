@@ -1,0 +1,4 @@
+requests
+termcolor
+aiohttp==3.8.5
+aiofiles==23.1.0
